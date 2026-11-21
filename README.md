@@ -7,8 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Exploring+Generative+AI+%26+RAG;Learning+System+Design+%26+Distributed+Systems;Turning+Ideas+Into+Scalable+Products" alt="Typing Animation" />
 
 <p align="center">
-  <a href="https://www.amitavasarkar.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:amitava.code@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-F7768E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/amitava-sarkar"><img src="https://img.shields.io/badge/LinkedIn-Connect-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
 </p>
 
